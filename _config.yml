@@ -6,3 +6,18 @@ url: https://extant-cmg.github.io/eXtant-wiki
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/eXtant-CMG/eXtant-wiki
+
+collections:
+  axolotl:
+    permalink: "/:collection/:path/"
+    output: true
+  loxensis:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    axolotl:
+      name: Axolotl
+    loxensis:
+      name: Loxensis
