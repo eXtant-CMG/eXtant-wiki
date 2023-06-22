@@ -1,4 +1,4 @@
-title: eXtant Wiki
+title: eXtant Documentation
 description: A wiki for all the projects in eXtant
 theme: just-the-docs
 
@@ -14,6 +14,9 @@ collections:
   loxensis:
     permalink: "/:collection/:path/"
     output: true
+  bibundina:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
@@ -21,3 +24,7 @@ just_the_docs:
       name: Axolotl
     loxensis:
       name: Loxensis
+    bibundina:
+      name: Bibundina
+
+
