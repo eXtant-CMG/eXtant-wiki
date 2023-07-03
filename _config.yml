@@ -23,8 +23,27 @@ just_the_docs:
     axolotl:
       name: Axolotl
     loxensis:
-      name: Loxensis
+      name: Keystroke Loxensis
     bibundina:
       name: Bibundina
 
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Important
+    color: red
+  example:
+    title: Example
+    color: grey-lt
 

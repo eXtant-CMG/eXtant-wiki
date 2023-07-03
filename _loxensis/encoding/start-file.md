@@ -10,10 +10,10 @@ nav_order: 1
 
 ## What do you need for the encoding? ##
 
-{: .highlight }
-A paragraph
+1. The most fine-grained analysis from the used keystroke logging tool, e.g. the General Analysis from [Inputlog](https://www.inputlog.net), or the Session Log from [GGXLog](https://www.ggxlog.net/index.php).
+2. An XML editor.
+3. Use the 'Start file' below as your basic template
 
-Example
 ## Start file ##
 
 	<?xml version="1.0" encoding="UTF-8"?>

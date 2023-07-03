@@ -13,7 +13,7 @@ For encoding the keystroke logging data, only a limited number of tags from the 
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| `<p>`     | All the text is encoded in one single `<p>` element(`<p type="keystroke"`) ,  all the 'Focus events' in another `<p>` element  (`<p type="sources"`), and all editor notes (annotations) in a separate `<p>` element.     |
+| `<p>`     | All the text is encoded in one single `<p>` element(`<p source="keystroke"`) ,  all the 'Focus events' in another `<p>` element  (`<p source="sources"`), and all editor notes (annotations) in a separate `<p source="notes">` element.     |
 | `<seg>`   | Every sentence is encoded with a `<seg>` element       |
 | `<lb/>`   | Every 'Enter/Return' is encoded with the empty element `<lb/>` element       |
 | `<add>`   | Every addition, including new text production, is encoded with a `<add>` element       |
