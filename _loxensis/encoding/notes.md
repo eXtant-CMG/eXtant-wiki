@@ -48,7 +48,7 @@ Once the writing process is encoded, and visualised with the 'Standard visualisa
 
 The `@ana` attribute can be used to link the note with the corresponding writing action. This attribute can be added to the `<add>`, `<del>` and `<mod>` elements
 
-##### Example 1 #####
+##### Example 2 #####
 {: .no_toc }
 
 {: .example}
