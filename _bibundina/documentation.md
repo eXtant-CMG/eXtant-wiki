@@ -2,7 +2,7 @@
 layout: default
 title: Documentation
 permalink: /bibundina/documentation
-nav_order: 1
+nav_order: 3
 ---
 # Documentation
 {: .no_toc }
