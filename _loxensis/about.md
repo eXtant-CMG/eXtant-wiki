@@ -5,7 +5,7 @@ permalink: /loxensis/about
 nav_order: 1
 ---
 
-# The application #
+# About Keystroke Loxensis #
 
 The **Keystroke Loxensis** visualisation application aims to simplify a text genetic analysis of keystroke-logged writing processes. The keystroke logging tool Inputlog allows for a fine-grained analysis of (literary) writing processes. But before the writing process can be studied, the keystroke logging data needs to be transformed into an output that is suitable for a textual genetic analysis. For this purpose, the text can be combined with keystroke logging data in TEI-conformant XML. Inputlog also offers a Replay-function, byt relying solely on a video replay of the writing session for text genetic analysis seems undesirable, as one would need to watch a writing session of, say, two hours in its entirety, while constantly pausing to analyse the effect of the revisions. A static reconstruction of the writing session, together with replay function of relevant writing actions, is favoured to ensure adequate analysis. This also allows for further dissemination of the encoded writing process, in the form of a digital edition.
 

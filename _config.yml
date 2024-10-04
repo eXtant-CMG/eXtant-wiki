@@ -1,7 +1,6 @@
 title: eXtant Documentation
 description: A wiki for all the projects in eXtant
 theme: just-the-docs
-color_scheme: exant
 
 url: https://extant-cmg.github.io/eXtant-wiki
 
@@ -18,6 +17,9 @@ collections:
   bibundina:
     permalink: "/:collection/:path/"
     output: true
+  diff-annotator:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
@@ -27,6 +29,8 @@ just_the_docs:
       name: Keystroke Loxensis
     bibundina:
       name: Bibundina
+    diff-annotator:
+      name: Diff-Annotator
 
 callouts_level: quiet # or loud
 callouts:
@@ -48,3 +52,4 @@ callouts:
     title: Example
     color: grey-lt
 
+color_scheme: dark
