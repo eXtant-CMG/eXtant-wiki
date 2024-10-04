@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The application
-permalink: /loxensis/the-app
-nav_order: 3
+title: About
+permalink: /loxensis/about
+nav_order: 1
 ---
 
 # The application #

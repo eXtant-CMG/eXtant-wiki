@@ -3,7 +3,7 @@ layout: page
 title: Encoding manual
 permalink: /loxensis/encoding
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
 # Encoding manual for keystroke logging data #
