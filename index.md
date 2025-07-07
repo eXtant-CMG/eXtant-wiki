@@ -12,4 +12,4 @@ Here you can find the documentation for the tools developed in the eXtant toolki
 
 eXtant is the University of Antwerp Literature Department's contribution to [CLARIAH-VL](https://clariahvl.hypotheses.org) and consists of tools developed by [Nooshin Shahidzadeh Asadi](https://www.uantwerpen.be/en/staff/nooshin-shahidzadeh-asadi_23445/), [Vincent Neyt](https://www.uantwerpen.be/en/staff/vincent-neyt/) and [Lamyk Bekius](https://www.uantwerpen.be/en/staff/lamyk-bekius/).
 
-<img src="/assets/images/UA_white.png" width="200" alt="FWO"> <img src="/assets/images/clariah_white.png" width="200" alt="CLARIAH-VL">  <img src="/assets/images/fwo_white.png" width="100" alt="FWO">
+<img src="./assets/images/UA_white.png" width="200" alt="FWO"> <img src="./assets/images/clariah_white.png" width="200" alt="CLARIAH-VL">  <img src="./assets/images/fwo_white.png" width="100" alt="FWO">
