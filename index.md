@@ -10,6 +10,8 @@ Currently, the eXtant toolkit consists of Axolotl Collaborative TEI-XML Editor, 
 
 Here you can find the documentation for the tools developed in the eXtant toolkit for digital scholarly editing.
 
-eXtant is the University of Antwerp Literature Department's contribution to [CLARIAH-VL](https://clariahvl.hypotheses.org) and consists of tools developed by [Nooshin Shahidzadeh Asadi](https://www.uantwerpen.be/en/staff/nooshin-shahidzadeh-asadi_23445/), [Vincent Neyt](https://www.uantwerpen.be/en/staff/vincent-neyt/) and [Lamyk Bekius](https://www.uantwerpen.be/en/staff/lamyk-bekius/).
+eXtant is the University of Antwerp Literature Department's contribution to [CLARIAH-VL](https://clariahvl.hypotheses.org) and consists of tools developed by [Nooshin Shahidzadeh Asadi](https://www.uantwerpen.be/en/staff/nooshin-shahidzadeh-asadi_23445/), [Vincent Neyt](https://www.uantwerpen.be/en/staff/vincent-neyt/) and [Lamyk Bekius](https://www.uantwerpen.be/en/staff/lamyk-bekius/) at the Centre for Manuscript Genetics (principal investigator: [Dirk Van Hulle](https://www.uantwerpen.be/en/staff/dirk-vanhulle/)). 
 
-<img src="/images/UA_white.png" width="200" alt="UA"> <img src="/images/clariah_white.png" width="200" alt="CLARIAH-VL">  <img src="/images/fwo_white.png" width="100" alt="FWO">
+<img src="{{ '/images/UA_white.png' | relative_url }}" width="200" alt="UA">
+<img src="{{ '/images/clariah_white.png' | relative_url }}" width="200" alt="CLARIAH-VL">
+<img src="{{ '/images/fwo_white.png' | relative_url }}" width="100" alt="FWO">
