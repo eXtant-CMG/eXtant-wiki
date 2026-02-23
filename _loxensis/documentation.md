@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Documentation
-permalink: /loxensisi/documentation
+permalink: /loxensis/documentation
 nav_order: 3
 ---
 # Documentation

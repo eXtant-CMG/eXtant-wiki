@@ -14,6 +14,6 @@ You can download eXist-db on their [website](http://exist-db.org/exist/apps/home
 Please note that eXist-db requires Java 8. If you do not have this, you will need to download and [install](https://www.java.com/en/download/help/index_installing.html) it first.
 
 ### Installation ###
-1. Download the xar file under "releases" from the Keystroke Loxensis Github-page. 
+1. Download the xar file under "releases" from the [Keystroke Loxensis Github repository](https://github.com/eXtant-CMG/Keystroke-Loxensis). 
 2. Upload it to eXist-db via the package manager.
 
