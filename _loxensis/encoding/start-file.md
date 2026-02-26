@@ -35,6 +35,7 @@ nav_order: 1
 	                    <l><!-- Start-time of the writing session --></l> 
 	                    <l><!-- Duration of the writing session --></l> 
 	                </p>
+					<p><!-- Give a description of the author here, the description given in the first session-file will be used in the about.html --></p>
 	            </sourceDesc>
 	        </fileDesc>
 	    </teiHeader>
